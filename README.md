@@ -99,7 +99,7 @@ After a real (non-preview) run with successes, the script prints a "next steps" 
 
 ## Output files
 
-Every file this script produces is prefixed with the connected tenant's name, e.g. `ACCESS-4-PTY-LTD_...`.
+Every file this script produces is prefixed with the connected tenant's name, e.g. `ACME_Corp-PTY-LTD_...`.
 
 | File pattern | What it is |
 |---|---|
